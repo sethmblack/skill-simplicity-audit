@@ -3,8 +3,8 @@ name: simplicity-audit
 description: 'Systematically eliminate unnecessary complexity from a product, feature, or process by applying Steve Jobs''s ruthless simplification methodology: "Simplicity is the ultimate sophistication.'
 license: MIT
 metadata:
+  version: 1.0.4982
   author: sethmblack
-  version: 1.0.4981
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - simplicity-audit
